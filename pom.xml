@@ -42,6 +42,7 @@
 
       <plugin>
         <artifactId>maven-release-plugin</artifactId>
+         <version>3.3.2</version>
         <configuration>
           <autoVersionSubmodules>true</autoVersionSubmodules>
         </configuration>
